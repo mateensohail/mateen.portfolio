@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mateensohail/mateen.portfolio.git/static/css/main.f502d755.css",
+    "main.js": "/mateensohail/mateen.portfolio.git/static/js/main.edc81286.js",
+    "static/js/488.ec9ea7a4.chunk.js": "/mateensohail/mateen.portfolio.git/static/js/488.ec9ea7a4.chunk.js",
+    "index.html": "/mateensohail/mateen.portfolio.git/index.html",
+    "main.f502d755.css.map": "/mateensohail/mateen.portfolio.git/static/css/main.f502d755.css.map",
+    "main.edc81286.js.map": "/mateensohail/mateen.portfolio.git/static/js/main.edc81286.js.map",
+    "488.ec9ea7a4.chunk.js.map": "/mateensohail/mateen.portfolio.git/static/js/488.ec9ea7a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f502d755.css",
+    "static/js/main.edc81286.js"
+  ]
+}
