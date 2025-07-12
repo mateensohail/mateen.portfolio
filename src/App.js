@@ -40,6 +40,7 @@ function App() {
           <span>Tailwind CSS</span>
           <span>Bootstrap</span>
           <span>Firebase</span>
+          <span>github</span>
         </div>
       </section>
 
